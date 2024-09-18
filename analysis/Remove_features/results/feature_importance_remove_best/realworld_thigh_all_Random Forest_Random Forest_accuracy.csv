@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,realworld_thigh,all,Random Forest,0.6964285714285714,0.7014488945347933,24,21
+Random Forest,realworld_thigh,all,Random Forest,0.6785714285714286,0.6831778927076438,23,0
+Random Forest,realworld_thigh,all,Random Forest,0.6964285714285714,0.7019028156392846,22,5
+Random Forest,realworld_thigh,all,Random Forest,0.6845238095238095,0.6907628414446148,21,1
+Random Forest,realworld_thigh,all,Random Forest,0.6904761904761905,0.6966255560970523,20,23
+Random Forest,realworld_thigh,all,Random Forest,0.6964285714285714,0.7018922109074092,19,8
+Random Forest,realworld_thigh,all,Random Forest,0.7023809523809523,0.7076299182962118,18,10
+Random Forest,realworld_thigh,all,Random Forest,0.6726190476190477,0.678862133925063,17,7
+Random Forest,realworld_thigh,all,Random Forest,0.6964285714285714,0.7017572183693729,16,3
+Random Forest,realworld_thigh,all,Random Forest,0.6964285714285714,0.7023206953554099,15,6
+Random Forest,realworld_thigh,all,Random Forest,0.6785714285714286,0.6843264673611819,14,20
+Random Forest,realworld_thigh,all,Random Forest,0.6845238095238095,0.6905428688306808,13,4
+Random Forest,realworld_thigh,all,Random Forest,0.6726190476190477,0.6781937112284258,12,2
+Random Forest,realworld_thigh,all,Random Forest,0.6785714285714286,0.682518360578062,11,14
+Random Forest,realworld_thigh,all,Random Forest,0.6726190476190477,0.6782205450568327,10,17
+Random Forest,realworld_thigh,all,Random Forest,0.6547619047619048,0.662060573636078,9,12
+Random Forest,realworld_thigh,all,Random Forest,0.6309523809523809,0.6376720927178593,8,19
+Random Forest,realworld_thigh,all,Random Forest,0.6369047619047619,0.6415159111184712,7,16
+Random Forest,realworld_thigh,all,Random Forest,0.6011904761904762,0.6050987481879929,6,11
+Random Forest,realworld_thigh,all,Random Forest,0.6071428571428571,0.6109687524789562,5,9
+Random Forest,realworld_thigh,all,Random Forest,0.5952380952380952,0.5990119417822853,4,22
+Random Forest,realworld_thigh,all,Random Forest,0.5595238095238095,0.5642212635679078,3,18
+Random Forest,realworld_thigh,all,Random Forest,0.5773809523809523,0.5808891908671087,2,13
+Random Forest,realworld_thigh,all,Random Forest,0.39285714285714285,0.3898696220308897,1,15

@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,kuhar,sensor,Random Forest,0.8988095238095238,0.8982738435568624,24,6
+Random Forest,kuhar,sensor,Random Forest,0.9047619047619048,0.9036488970291336,23,8
+Random Forest,kuhar,sensor,Random Forest,0.8988095238095238,0.8977556231731031,22,9
+Random Forest,kuhar,sensor,Random Forest,0.9047619047619048,0.9041063012601228,21,4
+Random Forest,kuhar,sensor,Random Forest,0.9047619047619048,0.9041063012601228,20,5
+Random Forest,kuhar,sensor,Random Forest,0.8988095238095238,0.897719582923719,19,18
+Random Forest,kuhar,sensor,Random Forest,0.8988095238095238,0.8977556231731031,18,2
+Random Forest,kuhar,sensor,Random Forest,0.9047619047619048,0.9036488970291336,17,16
+Random Forest,kuhar,sensor,Random Forest,0.8928571428571429,0.892062739289579,16,17
+Random Forest,kuhar,sensor,Random Forest,0.9107142857142856,0.909538051047485,15,22
+Random Forest,kuhar,sensor,Random Forest,0.9166666666666666,0.915583203514238,14,13
+Random Forest,kuhar,sensor,Random Forest,0.9107142857142856,0.9101329933470468,13,10
+Random Forest,kuhar,sensor,Random Forest,0.9166666666666666,0.915954415954416,12,7
+Random Forest,kuhar,sensor,Random Forest,0.8988095238095238,0.897826215370075,11,1
+Random Forest,kuhar,sensor,Random Forest,0.9107142857142856,0.9099954552784744,10,15
+Random Forest,kuhar,sensor,Random Forest,0.9166666666666666,0.916498954429989,9,14
+Random Forest,kuhar,sensor,Random Forest,0.9166666666666666,0.9160919540229884,8,19
+Random Forest,kuhar,sensor,Random Forest,0.9166666666666666,0.9160919540229884,7,12
+Random Forest,kuhar,sensor,Random Forest,0.9226190476190476,0.92241128803329,6,3
+Random Forest,kuhar,sensor,Random Forest,0.9166666666666666,0.916498954429989,5,21
+Random Forest,kuhar,sensor,Random Forest,0.8988095238095238,0.8968175739149856,4,0
+Random Forest,kuhar,sensor,Random Forest,0.9047619047619048,0.903746275010643,3,11
+Random Forest,kuhar,sensor,Random Forest,0.8333333333333334,0.8337002450035494,2,20
+Random Forest,kuhar,sensor,Random Forest,0.5833333333333334,0.584106646634909,1,23

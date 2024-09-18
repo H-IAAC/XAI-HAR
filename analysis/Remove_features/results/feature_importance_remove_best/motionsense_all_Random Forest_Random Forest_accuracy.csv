@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,motionsense,all,Random Forest,0.8511904761904762,0.851033850772409,24,1
+Random Forest,motionsense,all,Random Forest,0.8511904761904762,0.8511855936330939,23,0
+Random Forest,motionsense,all,Random Forest,0.8511904761904762,0.8511855936330939,22,8
+Random Forest,motionsense,all,Random Forest,0.8511904761904762,0.8511855936330939,21,10
+Random Forest,motionsense,all,Random Forest,0.8452380952380952,0.8451495250930279,20,21
+Random Forest,motionsense,all,Random Forest,0.8511904761904762,0.8511855936330939,19,6
+Random Forest,motionsense,all,Random Forest,0.8511904761904762,0.8512994457325259,18,23
+Random Forest,motionsense,all,Random Forest,0.8511904761904762,0.8508297658686116,17,20
+Random Forest,motionsense,all,Random Forest,0.8392857142857143,0.8402943547680389,16,4
+Random Forest,motionsense,all,Random Forest,0.8333333333333334,0.8326494286113162,15,5
+Random Forest,motionsense,all,Random Forest,0.8452380952380952,0.8454903828454231,14,2
+Random Forest,motionsense,all,Random Forest,0.8273809523809523,0.8280978208426747,13,7
+Random Forest,motionsense,all,Random Forest,0.8273809523809523,0.8284344023343161,12,3
+Random Forest,motionsense,all,Random Forest,0.8273809523809523,0.8266135849317943,11,22
+Random Forest,motionsense,all,Random Forest,0.7976190476190477,0.7990297677731927,10,12
+Random Forest,motionsense,all,Random Forest,0.7857142857142857,0.7871622322983959,9,14
+Random Forest,motionsense,all,Random Forest,0.7857142857142857,0.7872086732118403,8,11
+Random Forest,motionsense,all,Random Forest,0.8273809523809523,0.8275975548720532,7,9
+Random Forest,motionsense,all,Random Forest,0.8035714285714286,0.8035727539726433,6,17
+Random Forest,motionsense,all,Random Forest,0.8273809523809523,0.8277672590201139,5,15
+Random Forest,motionsense,all,Random Forest,0.7976190476190477,0.7971177212464241,4,19
+Random Forest,motionsense,all,Random Forest,0.7797619047619048,0.7789837706204209,3,18
+Random Forest,motionsense,all,Random Forest,0.5535714285714286,0.5528016739359182,2,13
+Random Forest,motionsense,all,Random Forest,0.25,0.24935275469389195,1,16

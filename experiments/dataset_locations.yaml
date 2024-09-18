@@ -1,0 +1,96 @@
+# Location of the datasets used in the experiments
+# The key is used to index the dataset (in the format <dataset_name>.<dataset_view>)
+# The value is the path to the dataset (relative to the root path, passed as -d argument to the experiment executor)
+# For example
+#   If -d /home/user/datasets
+#   The path to the dataset "kuhar.raw_balanced" is /home/user/datasets/KuHar/raw_balanced
+
+
+##############################################################################################################
+# HAR DATASETS
+##############################################################################################################
+
+# KuHar
+kuhar.raw_balanced: "har/raw_balanced/KuHar"
+kuhar.standartized_balanced: "har/standartized_balanced/KuHar"
+kuhar.standartized_inter_balanced: "har/standartized_inter_balanced/KuHar"
+# MotionSense
+motionsense.raw_balanced: "har/raw_balanced/MotionSense"
+motionsense.standartized_balanced: "har/standartized_balanced/MotionSense"
+motionsense.standartized_inter_balanced: "har/standartized_inter_balanced/MotionSense"
+# UCI
+uci.raw_balanced: "har/raw_balanced/UCI"
+uci.standartized_balanced: "har/standartized_balanced/UCI"
+uci.standartized_inter_balanced: "har/standartized_inter_balanced/UCI"
+# RealWorld (thigh)
+realworld_thigh.raw_balanced: "har/raw_balanced/RealWorld_thigh"
+realworld_thigh.standartized_balanced: "har/standartized_balanced/RealWorld_thigh"
+realworld_thigh.standartized_inter_balanced: "har/standartized_inter_balanced/RealWorld_thigh"
+# RealWorld (waist)
+realworld_waist.raw_balanced: "har/raw_balanced/RealWorld_waist"
+realworld_waist.standartized_balanced: "har/standartized_balanced/RealWorld_waist"
+realworld_waist.standartized_inter_balanced: "har/standartized_inter_balanced/RealWorld_waist"
+# WISDM
+wisdm.raw_balanced: "har/raw_balanced/WISDM"
+wisdm.standartized_balanced: "har/standartized_balanced/WISDM"
+wisdm.standartized_inter_balanced: "har/standartized_inter_balanced/WISDM"
+
+##############################################################################################################
+# AUTHENTICATION DATASETS
+##############################################################################################################
+
+# RecodGait v1
+recodgait_v1.initial_dataset: "authentication/initial_dataset/RecodGait_v1"
+recodgait_v1.raw_balanced: "authentication/raw_balanced/RecodGait_v1"
+recodgait_v1.standartized_balanced: "authentication/standartized_balanced/RecodGait_v1"
+# RecodGait v2
+recodgait_v2.initial_dataset: "authentication/initial_dataset/RecodGait_v2"
+recodgait_v2.raw_balanced: "authentication/raw_balanced/RecodGait_v2"
+recodgait_v2.standartized_balanced: "authentication/standartized_balanced/RecodGait_v2"
+# GaitOpticalInertial
+gaitoptical.initial_dataset: "authentication/initial_dataset/GaitOpticalInertial"
+gaitoptical.raw_balanced: "authentication/raw_balanced/GaitOpticalInertial"
+gaitoptical.standartized_balanced: "authentication/standartized_balanced/GaitOpticalInertial"
+
+##############################################################################################################
+# FALL DETECTION DATASETS
+##############################################################################################################
+
+# FallRisk
+# UMAFall
+umafall.raw_balanced: "fall/raw_balanced/UMAFall"
+umafall.standartized_balanced: "fall/standartized_balanced/UMAFall"
+
+##############################################################################################################
+# Posture Transition DATASETS
+##############################################################################################################
+
+# HAPT
+hapt.initial_dataset_unbalanced: "transitions/initial_dataset_unbalanced/HAPT"
+hapt.initial_dataset_balanced: "transitions/initial_dataset_balanced/HAPT"
+
+hapt.raw_unbalanced: "transitions/raw_unbalanced/HAPT"
+hapt.raw_balanced: "transitions/raw_balanced/HAPT"
+
+hapt.standartized_unbalanced: "transitions/standartized_unbalanced/HAPT"
+hapt.standartized_balanced: "transitions/standartized_balanced/HAPT"
+
+# HAPT different transitions
+hapt_different_transitions.initial_dataset_unbalanced: "transitions/initial_dataset_unbalanced/HAPT_different_transitions"
+hapt_different_transitions.initial_dataset_balanced: "transitions/initial_dataset_balanced/HAPT_different_transitions"
+
+hapt_different_transitions.raw_unbalanced: "transitions/raw_unbalanced/HAPT_different_transitions"
+hapt_different_transitions.raw_balanced: "transitions/raw_balanced/HAPT_different_transitions"
+
+hapt_different_transitions.standartized_unbalanced: "transitions/standartized_unbalanced/HAPT_different_transitions"
+hapt_different_transitions.standartized_balanced: "transitions/standartized_balanced/HAPT_different_transitions"
+
+# HAPT only transitions
+hapt_only_transitions.initial_dataset_unbalanced: "transitions/initial_dataset_unbalanced/HAPT_only_transitions"
+hapt_only_transitions.initial_dataset_balanced: "transitions/initial_dataset_balanced/HAPT_only_transitions"
+
+hapt_only_transitions.raw_unbalanced: "transitions/raw_unbalanced/HAPT_only_transitions"
+hapt_only_transitions.raw_balanced: "transitions/raw_balanced/HAPT_only_transitions"
+
+hapt_only_transitions.standartized_unbalanced: "transitions/standartized_unbalanced/HAPT_only_transitions"
+hapt_only_transitions.standartized_balanced: "transitions/standartized_balanced/HAPT_only_transitions"

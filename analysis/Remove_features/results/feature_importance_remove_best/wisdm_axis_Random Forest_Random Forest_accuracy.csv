@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,wisdm,axis,Random Forest,0.8142857142857143,0.813796564625884,24,4
+Random Forest,wisdm,axis,Random Forest,0.8428571428571429,0.8424301698964098,23,8
+Random Forest,wisdm,axis,Random Forest,0.8071428571428572,0.8087934721499765,22,0
+Random Forest,wisdm,axis,Random Forest,0.8357142857142857,0.8350585898709036,21,6
+Random Forest,wisdm,axis,Random Forest,0.7857142857142857,0.786206180552852,20,11
+Random Forest,wisdm,axis,Random Forest,0.7785714285714286,0.7805382720727547,19,12
+Random Forest,wisdm,axis,Random Forest,0.7428571428571429,0.7451593079619492,18,20
+Random Forest,wisdm,axis,Random Forest,0.7571428571428571,0.7601931075460487,17,13
+Random Forest,wisdm,axis,Random Forest,0.7714285714285715,0.774496829625129,16,17
+Random Forest,wisdm,axis,Random Forest,0.7714285714285715,0.7738984674329502,15,1
+Random Forest,wisdm,axis,Random Forest,0.7642857142857142,0.7669741810275317,14,14
+Random Forest,wisdm,axis,Random Forest,0.7714285714285715,0.7738766403949942,13,16
+Random Forest,wisdm,axis,Random Forest,0.7571428571428571,0.7598055496416152,12,10
+Random Forest,wisdm,axis,Random Forest,0.7428571428571429,0.7460361152618796,11,7
+Random Forest,wisdm,axis,Random Forest,0.7642857142857142,0.7680522059866648,10,5
+Random Forest,wisdm,axis,Random Forest,0.7642857142857142,0.7650737512806478,9,15
+Random Forest,wisdm,axis,Random Forest,0.8071428571428572,0.8098682240191675,8,3
+Random Forest,wisdm,axis,Random Forest,0.7785714285714286,0.7794175885982659,7,19
+Random Forest,wisdm,axis,Random Forest,0.75,0.7510628580459089,6,21
+Random Forest,wisdm,axis,Random Forest,0.7571428571428571,0.7581233766233767,5,23
+Random Forest,wisdm,axis,Random Forest,0.7071428571428572,0.7098971809557034,4,9
+Random Forest,wisdm,axis,Random Forest,0.6142857142857143,0.6177339304377796,3,18
+Random Forest,wisdm,axis,Random Forest,0.5142857142857142,0.5162453920348657,2,22
+Random Forest,wisdm,axis,Random Forest,0.3357142857142857,0.3353793574846206,1,2

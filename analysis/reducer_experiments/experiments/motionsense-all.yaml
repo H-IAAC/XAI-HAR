@@ -1,0 +1,57 @@
+estimators:
+- algorithm: RandomForest
+  kwargs:
+    n_estimators: 100
+  name: random_forest-100
+  num_runs: 10
+- algorithm: KNN
+  kwargs:
+    n_neighbors: 5
+  name: knn-5
+  num_runs: 1
+- algorithm: SVM
+  kwargs:
+    C: 1.0
+    kernel: rbf
+  name: svm-rbf-C1.0
+  num_runs: 1
+extra:
+  in_use_features:
+  - accel-x
+  - accel-y
+  - accel-z
+  - gyro-x
+  - gyro-y
+  - gyro-z
+  reduce_on: all
+  save_data: true
+  scale_on: train
+reducer:
+  algorithm: umap
+  kwargs:
+    n_components: 24
+    random_state: 42
+  name: umap-24
+  use_y: false
+reducer_dataset:
+- kuhar.standartized_inter_balanced[train]
+- kuhar.standartized_inter_balanced[validation]
+- motionsense.standartized_inter_balanced[train]
+- motionsense.standartized_inter_balanced[validation]
+- wisdm.standartized_inter_balanced[train]
+- wisdm.standartized_inter_balanced[validation]
+scaler: null
+test_dataset:
+- motionsense.standartized_inter_balanced[test]
+train_dataset:
+- motionsense.standartized_inter_balanced[train]
+- motionsense.standartized_inter_balanced[validation]
+transforms:
+- kwargs:
+    centered: true
+  name: fft
+  transform: fft
+  windowed:
+    fit_on: null
+    transform_on: window
+version: '1.0'

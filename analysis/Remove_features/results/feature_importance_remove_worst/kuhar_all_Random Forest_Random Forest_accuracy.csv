@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,kuhar,all,Random Forest,0.8988095238095238,0.8974999306985748,24,12
+Random Forest,kuhar,all,Random Forest,0.8988095238095238,0.8974999306985748,23,9
+Random Forest,kuhar,all,Random Forest,0.9047619047619048,0.9040657198551936,22,22
+Random Forest,kuhar,all,Random Forest,0.8928571428571429,0.8920145190562613,21,14
+Random Forest,kuhar,all,Random Forest,0.8988095238095238,0.8977720029609676,20,11
+Random Forest,kuhar,all,Random Forest,0.9047619047619048,0.9022266003690153,19,7
+Random Forest,kuhar,all,Random Forest,0.9107142857142856,0.9108794423071496,18,15
+Random Forest,kuhar,all,Random Forest,0.8988095238095238,0.8985759854180907,17,5
+Random Forest,kuhar,all,Random Forest,0.8988095238095238,0.8983671299460774,16,13
+Random Forest,kuhar,all,Random Forest,0.9107142857142856,0.9097963473644056,15,8
+Random Forest,kuhar,all,Random Forest,0.8869047619047619,0.8848780983082255,14,16
+Random Forest,kuhar,all,Random Forest,0.9047619047619048,0.9043138148401306,13,21
+Random Forest,kuhar,all,Random Forest,0.9107142857142856,0.9103801169590644,12,1
+Random Forest,kuhar,all,Random Forest,0.9047619047619048,0.9043138148401306,11,20
+Random Forest,kuhar,all,Random Forest,0.9166666666666666,0.9159444748525208,10,4
+Random Forest,kuhar,all,Random Forest,0.9107142857142856,0.910454136618686,9,6
+Random Forest,kuhar,all,Random Forest,0.8809523809523809,0.8807456060329623,8,23
+Random Forest,kuhar,all,Random Forest,0.8928571428571429,0.8923290895300388,7,2
+Random Forest,kuhar,all,Random Forest,0.8809523809523809,0.88018378373682,6,10
+Random Forest,kuhar,all,Random Forest,0.8809523809523809,0.8802325209957659,5,18
+Random Forest,kuhar,all,Random Forest,0.8630952380952381,0.8641999616985063,4,19
+Random Forest,kuhar,all,Random Forest,0.8452380952380952,0.8458926091694452,3,0
+Random Forest,kuhar,all,Random Forest,0.8035714285714286,0.8038859786171614,2,3
+Random Forest,kuhar,all,Random Forest,0.42857142857142855,0.430980457082152,1,17

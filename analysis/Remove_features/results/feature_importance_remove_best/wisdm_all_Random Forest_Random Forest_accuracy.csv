@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,wisdm,all,Random Forest,0.8428571428571429,0.8417865451265254,24,0
+Random Forest,wisdm,all,Random Forest,0.85,0.8495331465919701,23,10
+Random Forest,wisdm,all,Random Forest,0.8285714285714286,0.8271637468546741,22,1
+Random Forest,wisdm,all,Random Forest,0.8428571428571429,0.8422632129349046,21,8
+Random Forest,wisdm,all,Random Forest,0.8357142857142857,0.8351592087104789,20,5
+Random Forest,wisdm,all,Random Forest,0.8214285714285714,0.8205203743743297,19,21
+Random Forest,wisdm,all,Random Forest,0.8428571428571429,0.8423055555555555,18,3
+Random Forest,wisdm,all,Random Forest,0.8285714285714286,0.8279717514281449,17,20
+Random Forest,wisdm,all,Random Forest,0.8142857142857143,0.8129714032505657,16,4
+Random Forest,wisdm,all,Random Forest,0.8071428571428572,0.8063280307702214,15,23
+Random Forest,wisdm,all,Random Forest,0.8214285714285714,0.8206865039958388,14,2
+Random Forest,wisdm,all,Random Forest,0.8285714285714286,0.8285246228951767,13,18
+Random Forest,wisdm,all,Random Forest,0.8142857142857143,0.8144365039958388,12,14
+Random Forest,wisdm,all,Random Forest,0.7857142857142857,0.7839169451238417,11,7
+Random Forest,wisdm,all,Random Forest,0.8071428571428572,0.8064365039958388,10,6
+Random Forest,wisdm,all,Random Forest,0.7642857142857142,0.7626140854219672,9,19
+Random Forest,wisdm,all,Random Forest,0.8,0.7989714333521966,8,17
+Random Forest,wisdm,all,Random Forest,0.8071428571428572,0.8057622615715962,7,15
+Random Forest,wisdm,all,Random Forest,0.8071428571428572,0.8061585028550315,6,22
+Random Forest,wisdm,all,Random Forest,0.7785714285714286,0.7777625439694404,5,16
+Random Forest,wisdm,all,Random Forest,0.7714285714285715,0.7658983711391706,4,12
+Random Forest,wisdm,all,Random Forest,0.7428571428571429,0.7394427558257346,3,11
+Random Forest,wisdm,all,Random Forest,0.6,0.5969484977681698,2,13
+Random Forest,wisdm,all,Random Forest,0.2857142857142857,0.2882845966669496,1,9

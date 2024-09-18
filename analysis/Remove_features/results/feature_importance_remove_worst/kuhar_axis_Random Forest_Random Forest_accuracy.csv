@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,kuhar,axis,Random Forest,0.9464285714285714,0.946342911964914,24,17
+Random Forest,kuhar,axis,Random Forest,0.9523809523809524,0.952309509800256,23,5
+Random Forest,kuhar,axis,Random Forest,0.9523809523809524,0.9522895968589672,22,3
+Random Forest,kuhar,axis,Random Forest,0.9523809523809524,0.9524530733544648,21,7
+Random Forest,kuhar,axis,Random Forest,0.9583333333333334,0.9582055371529056,20,19
+Random Forest,kuhar,axis,Random Forest,0.9523809523809524,0.9523613813087498,19,18
+Random Forest,kuhar,axis,Random Forest,0.9523809523809524,0.9523200632722116,18,9
+Random Forest,kuhar,axis,Random Forest,0.9583333333333334,0.9582055371529056,17,14
+Random Forest,kuhar,axis,Random Forest,0.9523809523809524,0.952536513488662,16,8
+Random Forest,kuhar,axis,Random Forest,0.9523809523809524,0.9523613813087498,15,6
+Random Forest,kuhar,axis,Random Forest,0.9523809523809524,0.9522588522588524,14,11
+Random Forest,kuhar,axis,Random Forest,0.9464285714285714,0.9465134280923756,13,10
+Random Forest,kuhar,axis,Random Forest,0.9583333333333334,0.9582055371529056,12,2
+Random Forest,kuhar,axis,Random Forest,0.9404761904761904,0.940645178576213,11,22
+Random Forest,kuhar,axis,Random Forest,0.9404761904761904,0.940645178576213,10,4
+Random Forest,kuhar,axis,Random Forest,0.9464285714285714,0.9465134280923756,9,23
+Random Forest,kuhar,axis,Random Forest,0.9404761904761904,0.9406521599464782,8,16
+Random Forest,kuhar,axis,Random Forest,0.9464285714285714,0.9464235521275968,7,20
+Random Forest,kuhar,axis,Random Forest,0.9464285714285714,0.9464235521275968,6,1
+Random Forest,kuhar,axis,Random Forest,0.9166666666666666,0.9170280594703388,5,21
+Random Forest,kuhar,axis,Random Forest,0.8690476190476191,0.8625152625152624,4,12
+Random Forest,kuhar,axis,Random Forest,0.8511904761904762,0.8440022026610089,3,0
+Random Forest,kuhar,axis,Random Forest,0.7738095238095238,0.7674922843792579,2,15
+Random Forest,kuhar,axis,Random Forest,0.6488095238095238,0.6495610574484686,1,13

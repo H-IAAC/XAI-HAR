@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,wisdm,sensor,Random Forest,0.8285714285714286,0.8273461277208349,24,11
+Random Forest,wisdm,sensor,Random Forest,0.85,0.8503317326268146,23,15
+Random Forest,wisdm,sensor,Random Forest,0.8357142857142857,0.8354554345664456,22,19
+Random Forest,wisdm,sensor,Random Forest,0.85,0.8500623723574542,21,22
+Random Forest,wisdm,sensor,Random Forest,0.85,0.8490623152896006,20,21
+Random Forest,wisdm,sensor,Random Forest,0.85,0.8500623723574542,19,8
+Random Forest,wisdm,sensor,Random Forest,0.8357142857142857,0.8358823451820356,18,20
+Random Forest,wisdm,sensor,Random Forest,0.8214285714285714,0.8200017516667817,17,2
+Random Forest,wisdm,sensor,Random Forest,0.8428571428571429,0.8418941798941798,16,10
+Random Forest,wisdm,sensor,Random Forest,0.85,0.849339497348865,15,23
+Random Forest,wisdm,sensor,Random Forest,0.8428571428571429,0.8419530827399679,14,14
+Random Forest,wisdm,sensor,Random Forest,0.8857142857142857,0.885618330501534,13,3
+Random Forest,wisdm,sensor,Random Forest,0.8214285714285714,0.8213595293595294,12,4
+Random Forest,wisdm,sensor,Random Forest,0.8214285714285714,0.8208717977092901,11,5
+Random Forest,wisdm,sensor,Random Forest,0.8285714285714286,0.8275942015224169,10,6
+Random Forest,wisdm,sensor,Random Forest,0.8285714285714286,0.8289341388643482,9,18
+Random Forest,wisdm,sensor,Random Forest,0.8214285714285714,0.8213595293595294,8,1
+Random Forest,wisdm,sensor,Random Forest,0.8214285714285714,0.8214384707287934,7,16
+Random Forest,wisdm,sensor,Random Forest,0.8071428571428572,0.8076143010346634,6,7
+Random Forest,wisdm,sensor,Random Forest,0.7857142857142857,0.7861934361934362,5,9
+Random Forest,wisdm,sensor,Random Forest,0.7785714285714286,0.7779970328357425,4,13
+Random Forest,wisdm,sensor,Random Forest,0.7642857142857142,0.763950863950864,3,17
+Random Forest,wisdm,sensor,Random Forest,0.7,0.7026396452393193,2,12
+Random Forest,wisdm,sensor,Random Forest,0.5857142857142857,0.5846884309831182,1,0

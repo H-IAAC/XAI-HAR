@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,realworld_waist,sensor,Random Forest,0.6904761904761905,0.6938386714541177,24,13
+Random Forest,realworld_waist,sensor,Random Forest,0.6904761904761905,0.6934477570666876,23,8
+Random Forest,realworld_waist,sensor,Random Forest,0.6666666666666666,0.6682813090553369,22,4
+Random Forest,realworld_waist,sensor,Random Forest,0.6666666666666666,0.6690636626968813,21,19
+Random Forest,realworld_waist,sensor,Random Forest,0.7023809523809523,0.7043386411754134,20,20
+Random Forest,realworld_waist,sensor,Random Forest,0.6904761904761905,0.6899155031197285,19,18
+Random Forest,realworld_waist,sensor,Random Forest,0.6547619047619048,0.6582570550655656,18,14
+Random Forest,realworld_waist,sensor,Random Forest,0.6785714285714286,0.6823303959757477,17,15
+Random Forest,realworld_waist,sensor,Random Forest,0.6488095238095238,0.653384432195777,16,22
+Random Forest,realworld_waist,sensor,Random Forest,0.6726190476190477,0.6779932318467169,15,21
+Random Forest,realworld_waist,sensor,Random Forest,0.6726190476190477,0.6778622750028495,14,23
+Random Forest,realworld_waist,sensor,Random Forest,0.6666666666666666,0.6704593054873254,13,17
+Random Forest,realworld_waist,sensor,Random Forest,0.6547619047619048,0.6592190022893497,12,7
+Random Forest,realworld_waist,sensor,Random Forest,0.6547619047619048,0.6594045912765435,11,10
+Random Forest,realworld_waist,sensor,Random Forest,0.6428571428571429,0.6455930059145145,10,6
+Random Forest,realworld_waist,sensor,Random Forest,0.6666666666666666,0.6686074678010162,9,5
+Random Forest,realworld_waist,sensor,Random Forest,0.6785714285714286,0.6818355202209209,8,9
+Random Forest,realworld_waist,sensor,Random Forest,0.6964285714285714,0.69828031431845,7,1
+Random Forest,realworld_waist,sensor,Random Forest,0.6845238095238095,0.6863416023740618,6,11
+Random Forest,realworld_waist,sensor,Random Forest,0.6785714285714286,0.6791664043386296,5,2
+Random Forest,realworld_waist,sensor,Random Forest,0.6309523809523809,0.6335999278383128,4,12
+Random Forest,realworld_waist,sensor,Random Forest,0.6369047619047619,0.6356049012620016,3,16
+Random Forest,realworld_waist,sensor,Random Forest,0.6369047619047619,0.6427289758469689,2,3
+Random Forest,realworld_waist,sensor,Random Forest,0.5654761904761905,0.5639062829432848,1,0

@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,realworld_waist,axis,Random Forest,0.7738095238095238,0.7724403033230822,24,17
+Random Forest,realworld_waist,axis,Random Forest,0.7797619047619048,0.7783737590239138,23,3
+Random Forest,realworld_waist,axis,Random Forest,0.7857142857142857,0.7847165991902835,22,19
+Random Forest,realworld_waist,axis,Random Forest,0.75,0.7483595161756081,21,18
+Random Forest,realworld_waist,axis,Random Forest,0.7619047619047619,0.7597777383463785,20,15
+Random Forest,realworld_waist,axis,Random Forest,0.7797619047619048,0.7762161127013781,19,5
+Random Forest,realworld_waist,axis,Random Forest,0.7440476190476191,0.7435565280649691,18,7
+Random Forest,realworld_waist,axis,Random Forest,0.7559523809523809,0.7551825356423058,17,16
+Random Forest,realworld_waist,axis,Random Forest,0.7321428571428571,0.7324166626426515,16,14
+Random Forest,realworld_waist,axis,Random Forest,0.7142857142857143,0.7152651796864321,15,8
+Random Forest,realworld_waist,axis,Random Forest,0.7380952380952381,0.7373324741437385,14,2
+Random Forest,realworld_waist,axis,Random Forest,0.6964285714285714,0.6932779496718116,13,22
+Random Forest,realworld_waist,axis,Random Forest,0.7380952380952381,0.7372578722345212,12,6
+Random Forest,realworld_waist,axis,Random Forest,0.7321428571428571,0.7310772923349386,11,9
+Random Forest,realworld_waist,axis,Random Forest,0.7380952380952381,0.7376570439240545,10,20
+Random Forest,realworld_waist,axis,Random Forest,0.7619047619047619,0.7588059514286868,9,4
+Random Forest,realworld_waist,axis,Random Forest,0.75,0.7465712418093372,8,11
+Random Forest,realworld_waist,axis,Random Forest,0.7202380952380952,0.7186435867238646,7,23
+Random Forest,realworld_waist,axis,Random Forest,0.7976190476190477,0.7969363969363971,6,10
+Random Forest,realworld_waist,axis,Random Forest,0.7619047619047619,0.7556633722007929,5,21
+Random Forest,realworld_waist,axis,Random Forest,0.7678571428571429,0.7618832720445624,4,12
+Random Forest,realworld_waist,axis,Random Forest,0.6964285714285714,0.6876312014704872,3,0
+Random Forest,realworld_waist,axis,Random Forest,0.6369047619047619,0.6240026883513746,2,13
+Random Forest,realworld_waist,axis,Random Forest,0.43452380952380953,0.44179740097541625,1,1

@@ -1,0 +1,25 @@
+Classifier,Dataset,Reduce,XAI,Accuracy,F1-Score,Dimension,Feature Removed
+Random Forest,uci,sensor,Random Forest,0.8357142857142857,0.8349293924466339,24,0
+Random Forest,uci,sensor,Random Forest,0.8357142857142857,0.8359706959706961,23,7
+Random Forest,uci,sensor,Random Forest,0.8071428571428572,0.8064458380975481,22,12
+Random Forest,uci,sensor,Random Forest,0.8285714285714286,0.8282346006483936,21,5
+Random Forest,uci,sensor,Random Forest,0.8285714285714286,0.82718855963438,20,21
+Random Forest,uci,sensor,Random Forest,0.8071428571428572,0.8065917688868508,19,9
+Random Forest,uci,sensor,Random Forest,0.7928571428571428,0.7913080681327664,18,17
+Random Forest,uci,sensor,Random Forest,0.7928571428571428,0.79078514198945,17,19
+Random Forest,uci,sensor,Random Forest,0.8,0.7979268995733887,16,1
+Random Forest,uci,sensor,Random Forest,0.7642857142857142,0.7612895703071085,15,13
+Random Forest,uci,sensor,Random Forest,0.7928571428571428,0.7912874286071934,14,2
+Random Forest,uci,sensor,Random Forest,0.8071428571428572,0.8062962962962963,13,23
+Random Forest,uci,sensor,Random Forest,0.8,0.7989823693164244,12,6
+Random Forest,uci,sensor,Random Forest,0.7642857142857142,0.7610574712643678,11,22
+Random Forest,uci,sensor,Random Forest,0.7714285714285715,0.7695286940306726,10,16
+Random Forest,uci,sensor,Random Forest,0.7642857142857142,0.7640047294922188,9,3
+Random Forest,uci,sensor,Random Forest,0.7642857142857142,0.7628954409616716,8,20
+Random Forest,uci,sensor,Random Forest,0.75,0.7494419048745659,7,14
+Random Forest,uci,sensor,Random Forest,0.7285714285714285,0.7275810790234989,6,10
+Random Forest,uci,sensor,Random Forest,0.7571428571428571,0.7567040497387089,5,15
+Random Forest,uci,sensor,Random Forest,0.6642857142857143,0.6639065932412507,4,18
+Random Forest,uci,sensor,Random Forest,0.6571428571428571,0.6566613731312738,3,8
+Random Forest,uci,sensor,Random Forest,0.4928571428571429,0.4920974450386214,2,11
+Random Forest,uci,sensor,Random Forest,0.44285714285714284,0.44067315624484416,1,4
